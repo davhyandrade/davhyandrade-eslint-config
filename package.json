@@ -1,0 +1,19 @@
+{
+  "name": "@davhyandrade/eslint-config",
+  "version": "1.0.0",
+  "homepage": "https://github.com/davhyandrade/davhyandrade-eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/davhyandrade/davhyandrade-eslint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davhyandrade/davhyandrade-eslint-config.git"
+  },
+  "license": "ISC",
+  "author": "Davhy Andrade <davhydesign@gmail.com>",
+  "main": "index.mjs",
+  "files": [
+    "index.mjs"
+  ],
+  "type": "module"
+}

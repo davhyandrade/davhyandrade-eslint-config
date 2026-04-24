@@ -1,0 +1,23 @@
+ 1 {
+    2   "name": "@davhyandrade/eslint-config",
+    3   "version": "1.0.0",
+    4   "description": "Configuração pessoal de ESLint para projetos React/Next.js",
+    5   "main": "index.js",
+    6   "files": [
+    7     "configs",
+    8     "index.js"
+    9   ],
+   10   "peerDependencies": {
+   11     "eslint": ">=9.0.0",
+   12     "eslint-config-next": ">=15.0.0",
+   13     "eslint-config-prettier": ">=10.0.0",
+   14     "eslint-plugin-import": ">=2.0.0",
+   15     "eslint-plugin-jest": ">=28.0.0",
+   16     "eslint-plugin-prettier": ">=5.0.0",
+   17     "typescript": ">=5.0.0"
+   18   },
+   19   "devDependencies": {
+   20     "eslint": "^9.16.0",
+   21     "typescript": "^5.7.2"
+   22   }
+   23 }
